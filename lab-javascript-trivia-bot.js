@@ -1,4 +1,4 @@
-** start of script.js **
+
 
 console.log("Hello! I'm your coding fun fact guide!");
 let botName="Lynda";
@@ -14,5 +14,4 @@ codingFact="english " + favoriteLanguage;
 console.log(codingFact);
 console.log("It was fun sharing these facts with you. Goodbye! - " + botName + " from " + botLocation + ".");
 
-** end of script.js **
 
